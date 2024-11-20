@@ -5,7 +5,6 @@
 - :rocket: Check out the software projects developed by us at [CTI - Canindé](https://cti.caninde.ifce.edu.br)
 - :memo: Follow my articles on [dev.to](https://dev.to/abreujp)
 - :star2: Connect with me on [x.com](https://x.com/abreujp9)
-- :speech_balloon: Join the Elixir User Group Ceará - Brazil [Elug-CE](https://github.com/elug-ce)
 
 # 💻 Tech Stacks
 
@@ -20,3 +19,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="phoenix" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
+
