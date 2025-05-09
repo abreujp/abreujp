@@ -4,6 +4,10 @@
 - :memo: Follow my articles on [dev.to](https://dev.to/abreujp)
 - :star2: Connect with me on [x.com](https://x.com/abreujp9)
 
+# 🔭 Open Source Contributions
+
+[![Elixir Contributor](https://img.shields.io/badge/Elixir-Contributor-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/elixir-lang/elixir/commits?author=abreujp)
+
 # 💻 Tech Stacks
 
 <div style="display: flex; justify-content: left; align-items: start; flex-wrap: wrap;">
