@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm João Paulo Abreu</h1>
-<h3 align="center">Web developer and Elixir enthusiast.</h3>
 
 - :memo: Follow my articles on [dev.to](https://dev.to/abreujp)
 - :star2: Connect with me on [x.com](https://x.com/abreujp9)
